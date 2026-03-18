@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com",
+        "cover": "https://via.placeholder.com/300x400/4285F4/FFFFFF?text=Google"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com",
+        "cover": "https://via.placeholder.com/300x400/FF0000/FFFFFF?text=YouTube"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://www.github.com",
+        "cover": "https://via.placeholder.com/300x400/333333/FFFFFF?text=GitHub"
+    },
+    {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "cover": "https://via.placeholder.com/300x400/F48024/FFFFFF?text=StackOverflow"
+    },
+    {
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org",
+        "cover": "https://via.placeholder.com/300x400/000000/FFFFFF?text=Wikipedia"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com",
+        "cover": "https://via.placeholder.com/300x400/FF4500/FFFFFF?text=Reddit"
+    },
+]
