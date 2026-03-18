@@ -1,7 +1,7 @@
 [
     {
         "name": "Google",
-        "url": "http://192.168.1.132:5000/flipbooks/1/embed",
+        "url": "https://flipbook-s5vp.onrender.com/flipbooks/1/embed",
         "cover": "https://placehold.co/600x401"
     },
     {
